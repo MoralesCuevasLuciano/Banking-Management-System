@@ -1,0 +1,165 @@
+# depslib dependency file v1.0
+1719269635 source:c:\users\sofia\downloads\prueba19-20240624t214539z-001\prueba19\cuenta.c
+	"cuenta.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"domicilio.h"
+	"clientes.h"
+	"time.h"
+	"mockClientes.h"
+
+1719265555 c:\users\sofia\downloads\prueba19-20240624t214539z-001\prueba19\cuenta.h
+	"clientes.h"
+
+1719265555 c:\users\sofia\downloads\prueba19-20240624t214539z-001\prueba19\clientes.h
+	"domicilio.h"
+
+1719265555 c:\users\sofia\downloads\prueba19-20240624t214539z-001\prueba19\mockclientes.h
+
+1719265555 source:c:\users\sofia\downloads\prueba19-20240624t214539z-001\prueba19\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"domicilio.h"
+
+1719159516 c:\users\sofia\downloads\prueba19-20240624t214539z-001\prueba19\domicilio.h
+
+1719268656 source:c:\users\sofia\downloads\prueba19-20240624t214539z-001\prueba19\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"domicilio.h"
+	"clientes.h"
+	<ctype.h>
+	<conio.h>
+	"mockClientes.h"
+
+1719269340 source:c:\users\sofia\downloads\prueba19-20240624t214539z-001\prueba19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"domicilio.h"
+	"clientes.h"
+	"cuenta.h"
+	"movimientos.h"
+	"time.h"
+	"mockClientes.h"
+	"malloc.h"
+	<conio.h>
+	"gotoxy.h"
+
+1719267385 c:\users\sofia\downloads\prueba19-20240624t214539z-001\prueba19\movimientos.h
+
+1719265555 c:\users\sofia\downloads\prueba19-20240624t214539z-001\prueba19\gotoxy.h
+
+1719265555 source:c:\users\sofia\downloads\prueba19-20240624t214539z-001\prueba19\mockclientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"domicilio.h"
+	"clientes.h"
+	"time.h"
+	"malloc.h"
+	<ctype.h>
+
+1719268659 source:c:\users\sofia\downloads\prueba19-20240624t214539z-001\prueba19\movimientos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"domicilio.h"
+	"clientes.h"
+	"cuenta.h"
+	"movimientos.h"
+	"time.h"
+	"mockClientes.h"
+	"malloc.h"
+	<conio.h>
+
+1719264252 source:c:\users\sofia\downloads\prueba19-20240624t214539z-001\prueba19\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+315543600 source:c:\users\alumno\downloads\prueba20\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"domicilio.h"
+
+315543600 c:\users\alumno\downloads\prueba20\domicilio.h
+
+315543600 source:c:\users\alumno\downloads\prueba20\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+315543600 source:c:\users\alumno\downloads\prueba20\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"domicilio.h"
+	"clientes.h"
+	"cuenta.h"
+	"movimientos.h"
+	"time.h"
+	"mockClientes.h"
+	"malloc.h"
+	<conio.h>
+	"gotoxy.h"
+
+315543600 c:\users\alumno\downloads\prueba20\clientes.h
+	"domicilio.h"
+
+315543600 c:\users\alumno\downloads\prueba20\cuenta.h
+	"clientes.h"
+
+315543600 c:\users\alumno\downloads\prueba20\movimientos.h
+
+315543600 c:\users\alumno\downloads\prueba20\mockclientes.h
+
+315543600 c:\users\alumno\downloads\prueba20\gotoxy.h
+
+315543600 source:c:\users\alumno\downloads\prueba20\mockclientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"domicilio.h"
+	"clientes.h"
+	"time.h"
+	"malloc.h"
+	<ctype.h>
+
+1719356159 source:c:\users\alumno\downloads\prueba20\movimientos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"domicilio.h"
+	"clientes.h"
+	"cuenta.h"
+	"movimientos.h"
+	"time.h"
+	"mockClientes.h"
+	"malloc.h"
+	<conio.h>
+
+1719353233 source:c:\users\alumno\downloads\prueba20\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"domicilio.h"
+	"clientes.h"
+	<ctype.h>
+	<conio.h>
+	"mockClientes.h"
+
+1719356150 source:c:\users\alumno\downloads\prueba20\cuenta.c
+	"cuenta.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"domicilio.h"
+	"clientes.h"
+	"time.h"
+	"mockClientes.h"
+
